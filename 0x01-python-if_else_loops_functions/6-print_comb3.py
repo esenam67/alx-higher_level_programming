@@ -5,4 +5,3 @@ for combination in range(0, 10):
             print("{}{}".format(combination, combination2))
         else:
             print("{}{}".format(combination, combination2), end=", ")
-print()
