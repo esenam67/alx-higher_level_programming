@@ -2,5 +2,5 @@
 def pow(a, b):
     ans = 1
     for _ in range(b):
-       ans *= a
+        ans *= a
     return ans
