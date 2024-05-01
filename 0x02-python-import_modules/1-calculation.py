@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-#calculator_1.py
 if __name__ == '__main__':
-    """ function"""
     from calculator_1 import add, sub, mul, div
     a = 10
     b = 5
