@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-#calculator_1
-""" function does and print some maths"""
 from calculator_1 import add, sub, mul, div
 a = 10
 b = 5
